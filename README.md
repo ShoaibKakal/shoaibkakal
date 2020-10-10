@@ -1,5 +1,5 @@
 ### Hi, I'm a passionate Android Developer. 👋 
-    I'm interested in Climate Change Projects🌱..
+    I'm interested in Climate Change Projects🌱.
     
 <img src="https://user-images.githubusercontent.com/56650286/90770514-547f5d80-e30b-11ea-93e7-a33af321c7ff.png">
 
