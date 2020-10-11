@@ -13,8 +13,9 @@
 Here are some ideas to get you started:
 -->
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400px" height = "200px" />
 <!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! -->
-<img src="https://user-images.githubusercontent.com/56650286/90770514-547f5d80-e30b-11ea-93e7-a33af321c7ff.png">
+
 ---
 
 ### About me: 🤗😀
