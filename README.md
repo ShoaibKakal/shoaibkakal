@@ -6,13 +6,22 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibPython) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ShoaibPython)
 
+<p align="center">
+
+<img src="https://img.shields.io/twitter/follow/shoaibKakal?label=Twitter&logo=twitter&style=for-the-badge" />
+
+</p>
 
 <!--
 **shoaibPython/shoaibPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400px" height = "200px" />
+<p align="center">
+  
+<img  alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500px" height = "200px" />
+
+</p>
 <!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! -->
 
 ---
@@ -30,7 +39,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Open Source Contribution.
 
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibKakal-007b7417b/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)
-<img src="https://img.shields.io/twitter/follow/shoaibKakal?label=Twitter&logo=twitter&style=for-the-badge" />
 
 
 
