@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 
 - 🔭I am working on a Project climate change open-source (PCC)
 
-- 🌱 I’m currently learning Android Development 💻✨
+- 🌱Working as a Android developer 💻✨
 
 - 👯 I’m looking to collaborate on more Open Source Projects.
 
 - 💬 Ask me about Open Source Contribution.
 
 - 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibKakal-007b7417b/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)
+- ⚡ Fun fact- i look for code rather than reading throey on stackoverflow😄😄.
 
-- ⚡ Fun fact: Can surf websites and tech stuffs for hours 😅😁, loves to look at ⭐.
 
 
 ---
