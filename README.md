@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibPython&hide=stars&show_icons=true&line_height=48&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibPython&count_private=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibPython&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibPython&count_private=true">
 
 </p>
 
