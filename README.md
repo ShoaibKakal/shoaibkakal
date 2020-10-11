@@ -13,7 +13,8 @@
 Here are some ideas to get you started:
 -->
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400px" height = "200px" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="400px" height = "200px" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/ZY3W96Mvat8EFTCclA/giphy.gif" width="400px" height = "200px" />
 <!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! -->
 
 ---
