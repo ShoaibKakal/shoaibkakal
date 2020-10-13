@@ -2,9 +2,9 @@
 ### Hi there 👋 I am  Shoaib Khalid💻 
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shoaibPython.visitor-badge)](https://github.com/shoaibPython)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibPython) 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ShoaibPython)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge)](https://github.com/shoaibkakal)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibkakal) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shoaibkakal)
 
 <p align="center">
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibPython&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibPython&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaibkakal&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkakal&count_private=true">
 
 </p>
 
