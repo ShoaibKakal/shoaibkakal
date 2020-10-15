@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Open Source Contribution.
 
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibKakal-007b7417b/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibkakal/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)
 
 
 
