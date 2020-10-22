@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
+  
 <img  alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500px" height = "200px" />
 
 </p>
