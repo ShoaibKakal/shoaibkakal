@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 🌱Working as a Android developer 💻✨
 
-- 👯 I’m looking to collaborate on more Open Source Projects.
+- 👯 I’m looking to collaborate on more Open Source Projects
 
 - 💬 Ask me about Open Source Contribution.
 
