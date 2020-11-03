@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 
-- ⚡ Fun fact- i look for code rather than reading throey on stackoverflow😄.
+- ⚡ Fun fact- i look for code rather than reading throey on stackoverflow😄
 
 
 
