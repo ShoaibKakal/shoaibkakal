@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibkakal&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkakal&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=JyotiJauhari&hide=stars&show_icons=true&line_height=48">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiJauhari&count_private=true">
 
 </p>
 
