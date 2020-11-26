@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-### About me: 😀
+### About me: 😀 💭
 
 - ⚡ Keenly interested in learning new technologies 💻  and always open to new opportunities.
 
