@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/twitter/follow/shoaibKakal?label=Twitter&logo=twitter&style=for-the-badge" />
+<img src="https://img.shields.io/twitter/follow/shoaibKakal?label=Twitter&logo=twitter&style=for-the-badge"/>
 
 </p>
 
@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Open Source Contribution.
 
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibkakal/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)
+- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibkakal/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-shoaibkakal-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shoaibkakal)](https://twitter.com/shoaibkakal)
+
 
 
 
