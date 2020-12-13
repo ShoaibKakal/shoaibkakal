@@ -2,81 +2,57 @@
 ### Hi there 👋 I am  Shoaib Khalid💻
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge)](https://github.com/shoaibkakal)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/shoaibkakal) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/shoaibkakal)
 
-<p align="center">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-<img src="https://img.shields.io/twitter/follow/shoaibKakal?label=Twitter&logo=twitter&style=for-the-badge" />
+## Hey, I'm [Shoaib Khalid!](https://dev.to/shoaibkakal) 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
 
-</p>
+Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
+<br/>
+<br/>
+Ask me anything about...
 
-<!--
-**shoaibPython/shoaibPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
-<p align="center">
-  
-  
-<img  alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="500px" height = "200px" />
-
-</p>
-<!-- ⚡Loves Healthy Competition 👩‍💻 Lets have one! -->
-
----
-
-### About me: 😀 💭
-
-- ⚡ Keenly interested in learning new technologies 💻  and always open to new opportunities.
-
-- 🔭I am working on a Project climate change open-source (PCC)
-
-- 🌱Working as a Android developer 💻✨
-
-- 👯 I’m looking to collaborate on more Open Source Projects
-
-- 💬 Ask me about Open Source Contribution.
-
-- 📫 How to reach me:    [![Linkedin Badge](https://img.shields.io/badge/-shoaibKakal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shoaibkakal/)](https://www.linkedin.com/in/shoaibKakal-007b7417b/) [![Gmail Badge](https://img.shields.io/badge/-shoaibkakal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoaibkakil@gmail.com)](mailto:shoaibkakil@gmail.com)
+<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
 
 
+Reach out to me at...
 
+<a href="https://twitter.com/shoaibkakal">
+  <img align="left" alt="shoaibkakal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><a href="https://www.linkedin.com/in/shoaibkakal">
+  <img align="left" alt="shoaibkakal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://instagram.com/shoaibkakal/">
+  <img align="left" alt="shoaibkakal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://facebook.com/shoaibkakal">
+  <img align="left" alt="shoaibkakal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br/>
+<br/>
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shoaibkakal&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
+#### Languages
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Tools and Frameworks
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
 
----
+<a href="https://github.com/iampawan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkakal&theme=light&hide_langs_below=1" />
+</a>
 
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibkakal&hide=stars&show_icons=true&line_height=48">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkakal&count_private=true">
-
-</p>
-
----
-
-    
-
-
-
-
-
-<!--
-**Shoaibpython/Shoaibpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-       
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Mobile Project
+- 🤔 I’m looking for help with my open source projects
+- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
+- 📫 How to reach me at shoaibkakal@gmail.com
+- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
