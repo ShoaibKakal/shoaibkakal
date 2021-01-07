@@ -19,7 +19,7 @@ Reach out to me at...
 <a href="https://twitter.com/shoaibkakal">
   <img align="left" alt="shoaibkakal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a><a href="https://www.linkedin.com/in/shoaibkakal">
-  <img align="left" alt="shoaibkakal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="shoaibkakal's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a><a href="https://instagram.com/shoaibkakal/">
   <img align="left" alt="shoaibkakal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><a href="https://facebook.com/shoaibkakal">
