@@ -39,10 +39,10 @@ Reach out to me at...
 <br/>
 <br/>
 <br/>
-<br/><br/>
 <br/>
-<br/><br/>
 <br/>
+<br/>
+
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Mobile Project
