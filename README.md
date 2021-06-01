@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Shoaib Khalid!](https://dev.to/shoaibkakal) 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="burhanrashid52" /> </a>
+## Hey, I'm [Shoaib Khalid!](https://dev.to/shoaibkakal) 👋 <a align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=shoaibkakal.visitor-badge" alt="shoaibkakal" /> </a>
 
 Android developer from Lahore, Pakistan. I love building applications & discussing new product ideas.
 <br/>
