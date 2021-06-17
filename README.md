@@ -33,8 +33,8 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkakal&theme=light&hide_langs_below=1" />
+<a href="https://github.com/shoaibkakal">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibkakal&theme=dark&hide_langs_below=1" />
 </a>
 <br/>
 <br/>
