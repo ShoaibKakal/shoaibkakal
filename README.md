@@ -46,7 +46,7 @@ Reach out to me at...
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Mobile Project
-- 🤔 I’m looking for help with my open source projects
+- 🤔 I’m looking for help in my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
 - 📫 How to reach me at shoaibkakil@gmail.com
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
