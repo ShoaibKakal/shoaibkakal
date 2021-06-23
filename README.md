@@ -44,7 +44,7 @@ Reach out to me at...
 <br/>
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin KMM
 - 👯 I’m looking to collaborate on Mobile Project
 - 🤔 I’m looking for help in my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
