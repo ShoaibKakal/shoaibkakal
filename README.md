@@ -6,16 +6,18 @@
 
 <a align="left"> <img src="https://raw.githubusercontent.com/ShoaibKakal/shoaibkakal/master/coverGif.gif" alt="shoaibkakal" /> </a>
 
-## Ask me anything about...
+## ☕ Ask me anything about...
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
 
+<br/>
 
-## Blog
+## ✍ Blog
 - [Can Github Copilot Replace Developers?](https://towardsdatascience.com/can-githubs-copilot-replace-developers-b89f28007c05)
 - [Current Location in Android](https://shoaibkakal.medium.com/getting-user-current-location-in-android-using-fusedlocatonproviderclient-a6693a16fc8)
 - [A brief introduction to AsynTask](https://blog.devgenius.io/a-brief-introduction-to-asynctask-in-android-with-visualize-examples-60a778de8a77)
 
+<br/>
 
 ## 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
@@ -27,6 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
+<br/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -37,8 +40,9 @@
 </a>
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+<br/>
 
+## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://linkedin.com/in/shoaibkakal"><img src="https://img.shields.io/badge/-Shoaib%20Kakkal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shoaibkakil@gmail.com"><img src="https://img.shields.io/badge/-shoaibkakil@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
