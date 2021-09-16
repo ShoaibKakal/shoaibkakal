@@ -49,8 +49,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/shoaibkakal"><img src="https://img.shields.io/badge/-Shoaib%20Kakkal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:shoaibkakil@gmail.com"><img src="https://img.shields.io/badge/-shoaibkakil@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/shoaibkakal"><img src="https://img.shields.io/badge/-@shoaibkakal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/shoaybkakal"><img src="https://img.shields.io/badge/-@shoaybkakal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://https://shoaibkakal.medium.com/"><img src="https://img.shields.io/badge/-@shoaibkakal-BD081C?style=flat&logo=Medium&logoColor=black"/></a>
+<a href="https://instagram.com/shoaybkakal"><img src="https://img.shields.io/badge/-@shoaybkakal-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/shoaibkakal"><img src="https://img.shields.io/badge/-@shoaibkakal-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://shoaibkakal.medium.com/"><img src="https://img.shields.io/badge/-@shoaibkakal-BD081C?style=flat&logo=Medium&logoColor=black"/></a>
 </p>
 
