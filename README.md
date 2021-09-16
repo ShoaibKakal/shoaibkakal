@@ -14,7 +14,11 @@ Ask me anything about...
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
 
 
-Reach out to me at...
+## Blog
+- [Can Github Copilot Replace Developers?](https://towardsdatascience.com/can-githubs-copilot-replace-developers-b89f28007c05)
+- [Current Location in Android](https://shoaibkakal.medium.com/getting-user-current-location-in-android-using-fusedlocatonproviderclient-a6693a16fc8)
+- [A brief introduction to AsynTask](https://blog.devgenius.io/a-brief-introduction-to-asynctask-in-android-with-visualize-examples-60a778de8a77)
+
 
 <a href="https://twitter.com/shoaibkakal">
   <img align="left" alt="shoaibkakal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
