@@ -6,6 +6,8 @@
 
 <a align="left"> <img src="https://raw.githubusercontent.com/ShoaibKakal/shoaibkakal/master/coverGif.gif" alt="shoaibkakal" /> </a>
 
+## 🏆 Profile
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoaibkakal)](https://github.com/ryo-ma/github-profile-trophy)
 ## ☕ Ask me anything about...
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
