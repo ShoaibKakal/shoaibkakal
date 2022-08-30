@@ -15,6 +15,7 @@
 <br/>
 
 ## ✍ Blog
+- [Ethereum Blockchain in android studio](https://blog.devgenius.io/deploy-smart-contract-on-ethereum-blockchain-using-web3j-in-android-studio-7fd1bfe1bb82)
 - [Can Github Copilot Replace Developers?](https://towardsdatascience.com/can-githubs-copilot-replace-developers-b89f28007c05)
 - [Current Location in Android](https://shoaibkakal.medium.com/getting-user-current-location-in-android-using-fusedlocatonproviderclient-a6693a16fc8)
 - [A brief introduction to AsynTask](https://blog.devgenius.io/a-brief-introduction-to-asynctask-in-android-with-visualize-examples-60a778de8a77)
